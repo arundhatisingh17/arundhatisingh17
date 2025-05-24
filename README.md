@@ -6,4 +6,3 @@ I'm currently pursuing a double major in **Computer Science** and **Data Science
 ### 📊 My LeetCode Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-lolly__171003-orange)](https://leetcode.com/lolly_171003)  
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/lolly_171003?theme=dark)](https://leetcode.com/lolly_171003)
