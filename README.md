@@ -12,6 +12,9 @@ Currently waiting on decisions for graduate studies in **Distributed Systems** w
 
 ### 🔭 Experience & Research
 
+- **⚡ Undergraduate Researcher (Advisor: Prof. Remzi Arpaci-Dusseau):**
+  - Investigating methods to increase transparency in distributed systems to promote and benchmark energy-conscious formulation of distributed and networking algorithms.
+
 - **🚦 Traffic Operations & Safety Laboratory:**
   - Working as a Software Developer building an **MVC framework** for API extensions.
   - Implementing advanced filtering to support government policy formulation and developing DB views for data transparency.
