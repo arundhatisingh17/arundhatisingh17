@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm a Senior at UW-Madison <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30" />
+# Hi there! 👋 I'm a Senior at UW-Madison <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="40" />
 <p align="center">
 <a href="https://www.linkedin.com/in/arundhati-singh171003/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arundhati_singh" height="28" width="28" /></a>&nbsp;
-<a href="https://medium.com/@arundhatisingh171003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="arundhati_singh" height="28" width="28" /></a>&nbsp;
+<a href="https://medium.com/@arundhatisingh171003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="arundhati_singh" height="28" width="28" /></a>&nbsp;
 </p>
 
 I am a **Computer Science and Data Science** major with a **Mathematics Certificate**, passionate about the intersection of distributed systems, big data, and energy-efficient computing.
