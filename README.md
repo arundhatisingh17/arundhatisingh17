@@ -19,7 +19,7 @@ Currently waiting on decisions for graduate studies in **Distributed Systems** w
   - Working as a Software Developer building an **MVC framework** for API extensions.
   - Implementing advanced filtering to support government policy formulation and developing DB views for data transparency.
   
-- **🧪 Morgridge Institute for Research:**
+- **🧪 Morgridge Institute for Research (Advisor: Prof. Kevin Eliceiri & Dr. Brandon Walker):**
   - Built interfaces to communicate with legacy hardware (G9 driver) for **3-D metal printers**.
   - Developed remote monitoring dashboards to visualize hardware status in real-time.
 
