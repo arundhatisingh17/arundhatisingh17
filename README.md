@@ -1,15 +1,15 @@
 # Hi there! I'm a Senior at UW-Madison <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="55" />
 <p align="center">
   <a href="https://www.linkedin.com/in/arundhati-singh171003/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="arundhati_singh" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-D87093?style=for-the-badge&logo=linkedin&logoColor=white" alt="arundhati_singh" />
   </a>&nbsp;
   
   <a href="https://medium.com/@arundhatisingh171003" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-FF69B4?style=for-the-badge&logo=medium&logoColor=white" alt="arundhati_singh" />
+    <img align="center" src="https://img.shields.io/badge/Medium-D87093?style=for-the-badge&logo=medium&logoColor=white" alt="arundhati_singh" />
   </a>&nbsp;
   
   <a href="https://drive.google.com/file/d/1oQdrTvDp9yzpgVMg3a8FCJeHFV5-oUYc/view?usp=sharing" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    <img align="center" src="https://img.shields.io/badge/Resume-D87093?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>&nbsp;
 </p>
 
