@@ -9,6 +9,7 @@ I am a **Computer Science and Data Science** major with a **Mathematics Certific
 
 Currently waiting on decisions for graduate studies in **Distributed Systems** while looking for opportunities in **Cloud Infrastructure** and **Big Data Engineering**.
 
+Website: https://arundhati17.netlify.app/
 ---
 
 ### 🔭 Experience & Research
