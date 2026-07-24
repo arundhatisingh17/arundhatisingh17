@@ -100,15 +100,6 @@ Peer Mentor for **CS 320, CS 564, and CS 574** at UW–Madison *(Jun 2024 – Ma
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arundhatisingh17&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundhatisingh17&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 ## Contact
 
 I am always open to discussing distributed systems, data infrastructure, research, or collaboration.
