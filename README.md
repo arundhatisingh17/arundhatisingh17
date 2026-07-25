@@ -41,6 +41,11 @@ I care about the layers where systems and data meet: distributed execution engin
 
 ## Selected Projects
 
+**[Speculative Retrieval](https://github.com/arundhatisingh17/speculative-retrieval)** · *Python, FastAPI, PyTorch, SPECTER2, React*
+- Aspect-aware retrieval over research papers that separates work by *contribution* rather than surface topic, addressing the aspect-conflation failure of standard dense RAG on vocabulary-saturated corpora.
+- Built a two-tier retriever that fuses SPECTER2 paper embeddings, BGE passage embeddings, and a cross-encoder reranker via reciprocal-rank fusion, with section-aware "aspect lenses" that bias ranking toward the part of a paper (method, gaps) that answers the question.
+- Added a query-reformulation layer that decomposes long, multi-part questions into fused sub-queries, plus a grounded LLM step returning a cited "why this matches" summary per result — surfaced through a React/Vite interface with drag-to-workspace refocusing over the live FastAPI backend.
+
 **Custom MapReduce Engine** · *Python, gRPC, Docker, HDFS*
 - Distributed computing engine on a Master-Worker topology, using gRPC for low-latency inter-node communication and HDFS for distributed storage of Parquet datasets.
 - Fault-tolerant execution via a heartbeat monitor that detects worker failures and performs atomic task reassignment, reaching eventual consistency without manual intervention.
