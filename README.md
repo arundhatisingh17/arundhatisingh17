@@ -17,9 +17,9 @@ I care about the layers where systems and data meet: distributed execution engin
 ## What I'm Working On
 
 <!--START:activity-->
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — Add self-updating recent activity section near the top of the README · 1 minute ago
 - [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — README: sharpen the aspect-conflation framing and motivation · 21 days ago
 - [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — Rewrite README: describe only what the project does, in plain language · 22 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — Add Speculative Retrieval to Selected Projects · 22 days ago
 <!--END:activity-->
 
 ---
