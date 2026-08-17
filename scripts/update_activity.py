@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Refresh the "Recent Activity" block in README.md from public GitHub events.
+"""Refresh the commit list in README.md from public GitHub events.
 
 Rewrites only the text between the ACTIVITY markers, so the rest of the README
 is never touched. Exits non-zero without writing if the markers are missing or
 GitHub returns nothing usable.
 
-The events API returns trimmed payloads: a PushEvent carries the head SHA but
-no commit messages, and a PullRequestEvent carries a number but no title. So we
-collect candidates first, then fetch details only for the handful we display.
+The events API returns trimmed payloads — a PushEvent carries `before` and
+`head` SHAs but no commit messages — so each push is expanded through the
+compare endpoint to recover every commit it contained, not just the head. That
+matters when a push carries several commits: showing only the head would hide
+the rest.
 """
 
 from __future__ import annotations
@@ -21,7 +23,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 USER = os.environ.get("GH_USER", "arundhatisingh17")
-COUNT = int(os.environ.get("ACTIVITY_COUNT", "3"))
+COUNT = int(os.environ.get("ACTIVITY_COUNT", "7"))
 README = os.environ.get("README_PATH", "README.md")
 
 START = "<!--START:activity-->"
@@ -69,54 +71,37 @@ def truncate(text: str) -> str:
     return text[: MAX_SUBJECT - 3].rstrip() + "..." if len(text) > MAX_SUBJECT else text
 
 
-def render(event: dict) -> str | None:
-    """Build one markdown line, fetching details when the payload is trimmed."""
-    kind = event.get("type")
-    repo = (event.get("repo") or {}).get("name") or ""
-    payload = event.get("payload") or {}
-    if not repo:
+NULL_SHA = "0" * 40
+
+
+def commits_in_push(repo: str, before: str, head: str) -> list[dict]:
+    """Every commit a push introduced, newest first.
+
+    The compare endpoint gives the full range. It fails on a first push to a new
+    branch (`before` is all zeroes) and after a force-push, so fall back to the
+    head commit alone rather than losing the entry.
+    """
+    if before and before != NULL_SHA:
+        data = api(f"https://api.github.com/repos/{repo}/compare/{before}...{head}")
+        if isinstance(data, dict) and data.get("commits"):
+            return list(reversed(data["commits"]))
+
+    single = api(f"https://api.github.com/repos/{repo}/commits/{head}")
+    return [single] if isinstance(single, dict) else []
+
+
+def render_commit(repo: str, commit: dict) -> str | None:
+    """One markdown line for a commit, or None if it isn't worth showing."""
+    message = ((commit.get("commit") or {}).get("message") or "").strip()
+    sha = commit.get("sha") or ""
+    if not message or not sha:
         return None
-    link = f"[`{repo.split('/', 1)[-1]}`](https://github.com/{repo})"
-
-    if kind == "PushEvent":
-        branch = (payload.get("ref") or "").removeprefix("refs/heads/")
-        sha = payload.get("head")
-        if not sha:
-            return None
-        commit = api(f"https://api.github.com/repos/{repo}/commits/{sha}")
-        if isinstance(commit, dict):
-            message = ((commit.get("commit") or {}).get("message") or "").strip()
-            if message:
-                return f"{link} — {truncate(message)}"
-        # Details unavailable (private, deleted, or rate-limited): still useful.
-        return f"{link} — pushed to `{branch or 'default'}`"
-
-    if kind == "PullRequestEvent" and payload.get("action") in {"opened", "reopened"}:
-        pr = payload.get("pull_request") or {}
-        number = pr.get("number")
-        if not number:
-            return None
-        title = pr.get("title")
-        if not title and pr.get("url"):
-            detail = api(pr["url"])
-            if isinstance(detail, dict):
-                title = detail.get("title")
-        url = pr.get("html_url") or f"https://github.com/{repo}/pull/{number}"
-        suffix = f": {truncate(title)}" if title else ""
-        return f"{link} — opened PR [#{number}]({url}){suffix}"
-
-    if kind == "CreateEvent" and payload.get("ref_type") == "repository":
-        return f"{link} — created a new repository"
-
-    if kind == "ReleaseEvent" and payload.get("action") == "published":
-        rel = payload.get("release") or {}
-        name = rel.get("name") or rel.get("tag_name")
-        if not name:
-            return None
-        url = rel.get("html_url") or f"https://github.com/{repo}/releases"
-        return f"{link} — released [{name}]({url})"
-
-    return None
+    # Merge commits are noise on a profile — the branch's own commits show up.
+    if message.startswith("Merge pull request") or message.startswith("Merge branch"):
+        return None
+    name = repo.split("/", 1)[-1]
+    url = commit.get("html_url") or f"https://github.com/{repo}/commit/{sha}"
+    return f"[`{name}`](https://github.com/{repo}) — [{truncate(message)}]({url})"
 
 
 def main() -> int:
@@ -128,16 +113,30 @@ def main() -> int:
     lines: list[str] = []
     seen: set[str] = set()
     for event in events:
-        entry = render(event)
-        if not entry or entry in seen:
-            continue
-        seen.add(entry)
-        lines.append(f"- {entry} · {humanize(event['created_at'])}")
-        if len(lines) == COUNT:
+        if len(lines) >= COUNT:
             break
+        if event.get("type") != "PushEvent":
+            continue
+        repo = (event.get("repo") or {}).get("name") or ""
+        payload = event.get("payload") or {}
+        head = payload.get("head")
+        if not repo or not head:
+            continue
+
+        for commit in commits_in_push(repo, payload.get("before", ""), head):
+            sha = commit.get("sha")
+            if not sha or sha in seen:
+                continue
+            entry = render_commit(repo, commit)
+            if not entry:
+                continue
+            seen.add(sha)
+            lines.append(f"- {entry} · {humanize(event['created_at'])}")
+            if len(lines) >= COUNT:
+                break
 
     if not lines:
-        print("no displayable public events found; leaving README as-is", file=sys.stderr)
+        print("no public commits found; leaving README as-is", file=sys.stderr)
         return 1
 
     with open(README, encoding="utf-8") as fh:
@@ -147,7 +146,10 @@ def main() -> int:
         print(f"markers {START} / {END} not found in {README}", file=sys.stderr)
         return 1
 
-    block = "\n".join(lines)
+    # The heading lives inside the markers so its count can never drift from
+    # the list beneath it — the events feed doesn't always yield COUNT commits.
+    heading = f"## Last {len(lines)} Commit{'s' if len(lines) != 1 else ''}"
+    block = "\n".join([heading, ""] + lines)
     updated = re.sub(
         re.escape(START) + r".*?" + re.escape(END),
         f"{START}\n{block}\n{END}",

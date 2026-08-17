@@ -14,12 +14,15 @@ I care about the layers where systems and data meet: distributed execution engin
 
 ---
 
-## What I'm Working On
-
 <!--START:activity-->
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — Add self-updating recent activity section near the top of the README · 1 minute ago
-- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — README: sharpen the aspect-conflation framing and motivation · 21 days ago
-- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — Rewrite README: describe only what the project does, in plain language · 22 days ago
+## Last 6 Commits
+
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 2 minutes ago
+- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [README: sharpen the aspect-conflation framing and motivation](https://github.com/arundhatisingh17/speculative-retrieval/commit/a358f5967e322b82da68ddb0976470308202d66c) · 21 days ago
+- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [Rewrite README: describe only what the project does, in plain language](https://github.com/arundhatisingh17/speculative-retrieval/commit/4de97533a471312d6494314d75288882e4d08e54) · 22 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add Speculative Retrieval to Selected Projects](https://github.com/arundhatisingh17/arundhatisingh17/commit/77ca88f070a911ad418b5c46abef5211f8647147) · 22 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [update](https://github.com/arundhatisingh17/arundhatisingh17/commit/67d7b42dac7874c789c781c731254f9afcfd6645) · 23 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [updated readme](https://github.com/arundhatisingh17/arundhatisingh17/commit/3dbafc0b8bcda9caf329da19fe1a6e28414dc725) · 23 days ago
 <!--END:activity-->
 
 ---

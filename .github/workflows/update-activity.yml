@@ -32,7 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-          ACTIVITY_COUNT: "3"
+          ACTIVITY_COUNT: "7"
         # A failure here means the API was unreachable or returned nothing
         # usable. The README is left untouched, so don't fail the run.
         continue-on-error: true
