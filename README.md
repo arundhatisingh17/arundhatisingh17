@@ -14,6 +14,16 @@ I care about the layers where systems and data meet: distributed execution engin
 
 ---
 
+## What I'm Working On
+
+<!--START:activity-->
+- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — README: sharpen the aspect-conflation framing and motivation · 21 days ago
+- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — Rewrite README: describe only what the project does, in plain language · 22 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — Add Speculative Retrieval to Selected Projects · 22 days ago
+<!--END:activity-->
+
+---
+
 ## Education
 
 - **University of California, San Diego** — M.S., Computer Science and Engineering *(Sep 2026 – May 2028)*

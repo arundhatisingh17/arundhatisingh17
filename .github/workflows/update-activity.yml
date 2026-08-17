@@ -1,0 +1,51 @@
+name: Update recent activity
+
+on:
+  schedule:
+    # Every 6 hours. GitHub queues cron runs, so the exact minute drifts.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_activity.py"
+      - ".github/workflows/update-activity.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh activity block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          ACTIVITY_COUNT: "3"
+        # A failure here means the API was unreachable or returned nothing
+        # usable. The README is left untouched, so don't fail the run.
+        continue-on-error: true
+        run: python scripts/update_activity.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No activity changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh recent activity"
+          git push
