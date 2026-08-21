@@ -17,12 +17,12 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 3 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Show the last 7 commits instead of 3 recent events](https://github.com/arundhatisingh17/arundhatisingh17/commit/f905b024b81ecb666b5dd3ac2881434898a8fa98) · 3 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 4 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Show the last 7 commits instead of 3 recent events](https://github.com/arundhatisingh17/arundhatisingh17/commit/f905b024b81ecb666b5dd3ac2881434898a8fa98) · 4 days ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 4 days ago
 - [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [README: sharpen the aspect-conflation framing and motivation](https://github.com/arundhatisingh17/speculative-retrieval/commit/a358f5967e322b82da68ddb0976470308202d66c) · 25 days ago
-- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [Rewrite README: describe only what the project does, in plain language](https://github.com/arundhatisingh17/speculative-retrieval/commit/4de97533a471312d6494314d75288882e4d08e54) · 26 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add Speculative Retrieval to Selected Projects](https://github.com/arundhatisingh17/arundhatisingh17/commit/77ca88f070a911ad418b5c46abef5211f8647147) · 26 days ago
+- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [Rewrite README: describe only what the project does, in plain language](https://github.com/arundhatisingh17/speculative-retrieval/commit/4de97533a471312d6494314d75288882e4d08e54) · 27 days ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add Speculative Retrieval to Selected Projects](https://github.com/arundhatisingh17/arundhatisingh17/commit/77ca88f070a911ad418b5c46abef5211f8647147) · 27 days ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [update](https://github.com/arundhatisingh17/arundhatisingh17/commit/67d7b42dac7874c789c781c731254f9afcfd6645) · 27 days ago
 <!--END:activity-->
 
