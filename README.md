@@ -15,8 +15,9 @@ I care about the layers where systems and data meet: distributed execution engin
 ---
 
 <!--START:activity-->
-## Last 4 Commits
+## Last 5 Commits
 
+- [`akuna-quant-trading-2026`](https://github.com/arundhatisingh17/akuna-quant-trading-2026) — [Revise README for clarity and detail enhancement](https://github.com/arundhatisingh17/akuna-quant-trading-2026/commit/7ba32c004ccc2dbd64acd0d2d98dda57cd025d95) · 6 hours ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 8 days ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Show the last 7 commits instead of 3 recent events](https://github.com/arundhatisingh17/arundhatisingh17/commit/f905b024b81ecb666b5dd3ac2881434898a8fa98) · 8 days ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 8 days ago
