@@ -15,13 +15,15 @@ I care about the layers where systems and data meet: distributed execution engin
 ---
 
 <!--START:activity-->
-## Last 5 Commits
+## Last 7 Commits
 
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Bulk sync: 1 submission](https://github.com/arundhatisingh17/neetcode-submissions/commit/162559a0bd62f48e63f4004bad7dcd304d79ce39) · 3 minutes ago
-- [`akuna-quant-trading-2026`](https://github.com/arundhatisingh17/akuna-quant-trading-2026) — [Revise README for clarity and detail enhancement](https://github.com/arundhatisingh17/akuna-quant-trading-2026/commit/7ba32c004ccc2dbd64acd0d2d98dda57cd025d95) · 19 hours ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 8 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Show the last 7 commits instead of 3 recent events](https://github.com/arundhatisingh17/arundhatisingh17/commit/f905b024b81ecb666b5dd3ac2881434898a8fa98) · 8 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 9 days ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: level-order-traversal-of-binary-tree - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/9061a04d150bdaae880e7d0fa8f8aabf712b3c4e) · 25 minutes ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: longest-consecutive-sequence - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/31197aae5269812ece6c7cf0b14d7f685ffba75d) · 1 hour ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: products-of-array-discluding-self - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/52961cef55c905521d7484ac5f8907416cf2062a) · 2 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: top-k-elements-in-list - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/5d50fb305a40bf5cffee55e70563bc5e19c0df58) · 5 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Bulk sync: 1 submission](https://github.com/arundhatisingh17/neetcode-submissions/commit/162559a0bd62f48e63f4004bad7dcd304d79ce39) · 5 hours ago
+- [`akuna-quant-trading-2026`](https://github.com/arundhatisingh17/akuna-quant-trading-2026) — [Revise README for clarity and detail enhancement](https://github.com/arundhatisingh17/akuna-quant-trading-2026/commit/7ba32c004ccc2dbd64acd0d2d98dda57cd025d95) · 1 day ago
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 9 days ago
 <!--END:activity-->
 
 ---
