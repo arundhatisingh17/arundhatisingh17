@@ -17,11 +17,11 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 5 Commits
 
-- [`akuna-quant-trading-2026`](https://github.com/arundhatisingh17/akuna-quant-trading-2026) — [Revise README for clarity and detail enhancement](https://github.com/arundhatisingh17/akuna-quant-trading-2026/commit/7ba32c004ccc2dbd64acd0d2d98dda57cd025d95) · 12 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Bulk sync: 1 submission](https://github.com/arundhatisingh17/neetcode-submissions/commit/162559a0bd62f48e63f4004bad7dcd304d79ce39) · 3 minutes ago
+- [`akuna-quant-trading-2026`](https://github.com/arundhatisingh17/akuna-quant-trading-2026) — [Revise README for clarity and detail enhancement](https://github.com/arundhatisingh17/akuna-quant-trading-2026/commit/7ba32c004ccc2dbd64acd0d2d98dda57cd025d95) · 19 hours ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [chore: refresh activity block after rebase](https://github.com/arundhatisingh17/arundhatisingh17/commit/ea9111de89b6f61374b4ed671ac35880e794f953) · 8 days ago
 - [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Show the last 7 commits instead of 3 recent events](https://github.com/arundhatisingh17/arundhatisingh17/commit/f905b024b81ecb666b5dd3ac2881434898a8fa98) · 8 days ago
-- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 8 days ago
-- [`speculative-retrieval`](https://github.com/arundhatisingh17/speculative-retrieval) — [README: sharpen the aspect-conflation framing and motivation](https://github.com/arundhatisingh17/speculative-retrieval/commit/a358f5967e322b82da68ddb0976470308202d66c) · Jul 26, 2026
+- [`arundhatisingh17`](https://github.com/arundhatisingh17/arundhatisingh17) — [Add self-updating recent activity section near the top of the README](https://github.com/arundhatisingh17/arundhatisingh17/commit/de4667e124fa7a297d631722138ca35e50ca1bd8) · 9 days ago
 <!--END:activity-->
 
 ---
