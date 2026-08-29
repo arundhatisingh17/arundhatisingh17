@@ -17,13 +17,13 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: find-target-in-rotated-sorted-array - submission-5](https://github.com/arundhatisingh17/neetcode-submissions/commit/f38c4dff0951e844b03ca5e82a2e7b834b25187b) · 4 hours ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: jump-game - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/ba50a4326d5ee30efea4a28012dc2a975800ace5) · 1 day ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: merge-intervals - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/7ba37b37af103a287dac9dbcea9569659b69d312) · 1 day ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: maximum-subarray - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/2d2aa603740273a8ead9a5d52e84b3cfa80e7fbe) · 1 day ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: jump-game - submission-4](https://github.com/arundhatisingh17/neetcode-submissions/commit/2a81dad1968fc1be5edd5f9c668c9e4e5635edfc) · 1 day ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: find-minimum-in-rotated-sorted-array - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/3058be0c2fb6c391457a30d1410462b13289c779) · 4 hours ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: linked-list-cycle-detection - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/b9dc5b5c9e66303a8ca5d93d120c10d4fd943da2) · 4 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: house-robber-ii - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/d70e1dd3dc6950646dc3bdb56758b20861e2e5f7) · 9 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: duplicate-integer - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/3780877ce3b69aadf0a7e3c8575c02513f3039df) · 1 day ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: search-for-word - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/2a875ded7b460b8c70f60dcfa17c0b1e51294469) · 7 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: valid-tree - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/fb4704a4580cce7bf6d4597af1639813d98b6bfb) · 11 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: longest-palindromic-substring - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/2cd4d2649c8982944af40cb75d3d024c1a97fd1f) · 1 day ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: course-schedule - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/bdbceff1b4aacee66e92f8da34157fce17982a63) · 10 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: longest-increasing-subsequence - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/f906ace9d86ea174f9c1198b3c26510d7fe97abb) · 5 hours ago
 <!--END:activity-->
 
 ---
