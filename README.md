@@ -17,13 +17,13 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: two-integer-sum-ii - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/9537c4e4275cf23aa95942653e30ec8ed0a52a7e) · 14 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: daily-temperatures - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/3bc3e10f2059cda1806c0188886061b634c36a01) · 15 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: k-closest-points-to-origin - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/48a1c0035c8d3ed69e5a2c809888d897a6a9852b) · 17 hours ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: course-schedule - submission-5](https://github.com/arundhatisingh17/neetcode-submissions/commit/13eba3d92cc316d001ff3ece73bf79995e18bdcf) · 2 days ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: invert-a-binary-tree - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/c9566b2e7a755c6a14d864ed5d22daea12c0960e) · 3 days ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: clone-graph - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/508fa75b16c3a1078028987610e73f1ef426effc) · 6 days ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: longest-repeating-substring-with-replacement - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/e8c898e55651fdb0560b45f6b39e2e2f42fac5d0) · 6 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: word-break - submission-5](https://github.com/arundhatisingh17/neetcode-submissions/commit/2039e00f351b62d052689906256945b46cba6289) · 5 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: count-paths - submission-6](https://github.com/arundhatisingh17/neetcode-submissions/commit/a79dcb8712ed155b75d1e6b25f097ea6c5c46425) · 5 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: longest-common-subsequence - submission-3](https://github.com/arundhatisingh17/neetcode-submissions/commit/9ac6d3ba1a6f10d8bcb7078f6b49ab0fb63116c1) · 5 days ago
 <!--END:activity-->
 
 ---
