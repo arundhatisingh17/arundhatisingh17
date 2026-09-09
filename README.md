@@ -17,13 +17,13 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: rotting-fruit - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/071ddf3eb7c984e4c8a980f27fe8825bba5bd1ab) · 1 day ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: binary-search - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/3c57e0b4b34797c81a611999c78955e670658e11) · 6 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: permutations - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/b50952e6be3628b0e9eb50a99c7c16e3c55a7e9e) · 5 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: binary-tree-right-side-view - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/ac8194737cbc5961df0449715d10639d07996481) · 7 hours ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: binary-tree-diameter - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/11f3bde97fa6a964a5faae3e5ad2ff989a22b1f1) · 8 hours ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: max-area-of-island - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/d3f86192dcb1049b336a9bfad94f3c546914250f) · 1 day ago
-- [`DeepML`](https://github.com/arundhatisingh17/DeepML) — [Add README](https://github.com/arundhatisingh17/DeepML/commit/11f67bf02356f6d84d5916311d2f746cde44debb) · 1 day ago
-- [`DeepML`](https://github.com/arundhatisingh17/DeepML) — [Add matrix transpose](https://github.com/arundhatisingh17/DeepML/commit/db01b69170fee342f30458950aabd33850dc6d69) · 1 day ago
-- [`TeleBot`](https://github.com/arundhatisingh17/TeleBot) — [Simplify README prose](https://github.com/arundhatisingh17/TeleBot/commit/a7a9f1caf337b18e1ff84a2e6c03675ac01e04b2) · 2 days ago
-- [`TeleBot`](https://github.com/arundhatisingh17/TeleBot) — [Add README tracing the request lifecycle](https://github.com/arundhatisingh17/TeleBot/commit/113abcd1f3db3eac6ef50ed44360fe9b613a31d7) · 2 days ago
-- [`TeleBot`](https://github.com/arundhatisingh17/TeleBot) — [currently in progress](https://github.com/arundhatisingh17/TeleBot/commit/ddcf26fce20cac54460ddcfabe930c6ea896aed4) · 2 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: gas-station - submission-4](https://github.com/arundhatisingh17/neetcode-submissions/commit/9667c988cb72a87d58f935bacc2e79a9569b071d) · 1 day ago
+- [`DeepML`](https://github.com/arundhatisingh17/DeepML) — [Add README](https://github.com/arundhatisingh17/DeepML/commit/11f67bf02356f6d84d5916311d2f746cde44debb) · 2 days ago
 <!--END:activity-->
 
 ---
