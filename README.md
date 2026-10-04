@@ -17,13 +17,13 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: max-area-of-island - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/93400636aa8d42532ba260e658f2fdb1e01ead9a) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add Bollinger Bands sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/f9bb706dcd57578b370fd3b4a79145acf79eeadf) · 5 minutes ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add RSI sub-skill with divergence detection and guardrails](https://github.com/arundhatisingh17/UpStockSkill/commit/1fe18ee3caf4f23de540afb449ae5a343031d48d) · 21 minutes ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add trend-following and mean-reversion sub-skills; beginner-friendly README](https://github.com/arundhatisingh17/UpStockSkill/commit/82042e302159bfc818f1ffc6e418d8dd7b7741fb) · 42 minutes ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Commit 4: add equity-research sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/9c99915ada74da43706467d5aa95cc5571e8d256) · 1 hour ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Commit 3: add Dow Theory trend-identification sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/1441484a93ec16c87d5cfd5f4c92cafdb657edbd) · 1 hour ago
+- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: max-area-of-island - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/93400636aa8d42532ba260e658f2fdb1e01ead9a) · 2 days ago
 - [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: cheapest-flight-path - submission-0](https://github.com/arundhatisingh17/neetcode-submissions/commit/d7ee3dd09512c5536d480a8a7aa02a1ba09b6d8d) · 16 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: coin-change-ii - submission-2](https://github.com/arundhatisingh17/neetcode-submissions/commit/5cdaf0a93cf280f78013213d5f859cadf0d46eff) · 16 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: min-cost-climbing-stairs - submission-1](https://github.com/arundhatisingh17/neetcode-submissions/commit/17392a88add73cf84ca6b01ccc558651da2c0998) · 18 days ago
-- [`cached-rag-bot`](https://github.com/arundhatisingh17/cached-rag-bot) — [Fix PostgreSQL username in .env.example](https://github.com/arundhatisingh17/cached-rag-bot/commit/e83e6066862bb9212d859cbd96c31bce06bf0c6d) · 17 days ago
-- [`cached-rag-bot`](https://github.com/arundhatisingh17/cached-rag-bot) — [Add Discord bot with slash commands, GitHub issue ingestion and label search](https://github.com/arundhatisingh17/cached-rag-bot/commit/152a4981ba8845b142a1c03d5eadec611e2c3c4e) · 17 days ago
-- [`neetcode-submissions`](https://github.com/arundhatisingh17/neetcode-submissions) — [Add: jump-game-ii - submission-5](https://github.com/arundhatisingh17/neetcode-submissions/commit/1304c0ff90d07280ac92cb33721368db9192df04) · 18 days ago
 <!--END:activity-->
 
 ---
