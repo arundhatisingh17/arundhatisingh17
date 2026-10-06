@@ -17,13 +17,13 @@ I care about the layers where systems and data meet: distributed execution engin
 <!--START:activity-->
 ## Last 7 Commits
 
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add pivot-points sub-skill and wire it into the nightly plan](https://github.com/arundhatisingh17/UpStockSkill/commit/a12c5d850b8bf37f4b19e46719fae81e2de58704) · 16 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Commit 2: add trading skill and paper-trading ledger](https://github.com/arundhatisingh17/UpStockSkill/commit/760447a6a6e58428b91aa0df79d816aead117b83) · 20 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add nightly-plan sub-skill: read-only Schwab data + signals -> order sheet and thinkScript](https://github.com/arundhatisingh17/UpStockSkill/commit/a5e64c46c6bdc046e300e4d970ae9c49a8d30efa) · 17 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add Bollinger Bands sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/f9bb706dcd57578b370fd3b4a79145acf79eeadf) · 17 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add RSI sub-skill with divergence detection and guardrails](https://github.com/arundhatisingh17/UpStockSkill/commit/1fe18ee3caf4f23de540afb449ae5a343031d48d) · 17 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add trend-following and mean-reversion sub-skills; beginner-friendly README](https://github.com/arundhatisingh17/UpStockSkill/commit/82042e302159bfc818f1ffc6e418d8dd7b7741fb) · 17 hours ago
-- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Commit 4: add equity-research sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/9c99915ada74da43706467d5aa95cc5571e8d256) · 18 hours ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Mean reversion: SMA/EMA/WMA means with agreement check and trend warning](https://github.com/arundhatisingh17/UpStockSkill/commit/fd8810a436206e489179bca38749be0b82748fba) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add pivot-points sub-skill and wire it into the nightly plan](https://github.com/arundhatisingh17/UpStockSkill/commit/a12c5d850b8bf37f4b19e46719fae81e2de58704) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Commit 2: add trading skill and paper-trading ledger](https://github.com/arundhatisingh17/UpStockSkill/commit/760447a6a6e58428b91aa0df79d816aead117b83) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add nightly-plan sub-skill: read-only Schwab data + signals -> order sheet and thinkScript](https://github.com/arundhatisingh17/UpStockSkill/commit/a5e64c46c6bdc046e300e4d970ae9c49a8d30efa) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add Bollinger Bands sub-skill](https://github.com/arundhatisingh17/UpStockSkill/commit/f9bb706dcd57578b370fd3b4a79145acf79eeadf) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add RSI sub-skill with divergence detection and guardrails](https://github.com/arundhatisingh17/UpStockSkill/commit/1fe18ee3caf4f23de540afb449ae5a343031d48d) · 1 day ago
+- [`UpStockSkill`](https://github.com/arundhatisingh17/UpStockSkill) — [Add trend-following and mean-reversion sub-skills; beginner-friendly README](https://github.com/arundhatisingh17/UpStockSkill/commit/82042e302159bfc818f1ffc6e418d8dd7b7741fb) · 1 day ago
 <!--END:activity-->
 
 ---
